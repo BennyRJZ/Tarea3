@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567117002 source:/Users/benny/Documents/ITESM/2019B/Graficas/CodeBlocks/BresenhamT3/main.cpp
+	<OpenGL/gl.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+
